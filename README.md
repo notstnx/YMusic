@@ -6,4 +6,4 @@
 - Deleted debugging information from the code
 - Languages: EN/RU
 
-[Download](https://github.com/notstnx/YMusic/releases/latest)
+  [Download](https://github.com/notstnx/YMusic/releases/latest)
