@@ -5,3 +5,5 @@
 - Analytics partially disabled
 - Deleted debugging information from the code
 - Languages: EN/RU
+
+Download from release page: github.com/notstnx/YMusic/releases/latest
